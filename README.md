@@ -15,6 +15,6 @@
 from binary_search import binary_search
 
 numbers = [1, 3, 5, 7, 9, 11, 13, 15] 
-print(binary_search(numbers, 8)) # Выведед -1
-print(binary_search(numbers, 11)) # Выведед 5
+print(binary_search(numbers, 8)) # Выведет -1
+print(binary_search(numbers, 11)) # Выведет 5
 ```
